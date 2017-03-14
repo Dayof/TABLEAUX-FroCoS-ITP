@@ -1,0 +1,6 @@
+<img src="topo-tableau.jpg" width="950" height="170" border="0" usemap="#map" />
+
+<map name="tableaux_map">
+<area shape="rect" coords="747,125,827,142" alt="FroCoS 2017" href="http://frocos2017.cic.unb.br" />
+<area shape="rect" coords="847,124,907,140" alt="ITP 2017" href="http://itp2017.cic.unb.br" />
+</map>
