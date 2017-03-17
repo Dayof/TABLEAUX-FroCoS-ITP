@@ -80,7 +80,7 @@ def sep_reg(list_regs):
 
 print("INSERT FROM TXT TO DATABASE...")
 
-with open('han2.txt', encoding = "ISO-8859-1") as inf:
+with open('han2.txt', encoding = 'UTF-8')  as inf:
     cont = inf.readlines()
     all_reg_ok = sep_reg(cont)
 

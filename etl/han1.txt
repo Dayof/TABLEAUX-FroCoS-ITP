@@ -141,7 +141,7 @@ Ishikawa
 Japan
 
 Dr Daniel Le Berre
-Universit´e d’Artois
+Université d’Artois
 Rue Jean Souvraz SP18
 CRIL
 62307 LENS
@@ -858,7 +858,7 @@ Technische Universität Wien
 Institut für Informationssysteme 184/4
 Favoritenstraße 9–11
 1040 Wien
-Austria
+Austria 
 
 Mr Daniel Köhlwein
 Nordstraße 114
@@ -1332,3 +1332,4 @@ Technical University of Catalonia
 Campus Nord, Omega, 211
 08028 Barcelona
 Spain
+

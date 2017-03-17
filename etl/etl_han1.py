@@ -28,12 +28,14 @@ def find_aff(regs):
     for i in range(len(regs)):
         for j in all_aff:
             if j in regs[i]:
-                aff += str(regs[i]) + ' - '
+                aff += str(regs[i]) + ' '
                 loc = i
                 break
 
     for i in regs[loc+1:]:
-        add += str(i) + ' - '
+        add += str(i) + ' '
+
+
 
     return (aff, add)
 
@@ -92,7 +94,7 @@ def sep_reg(list_regs):
 
 print("INSERT FROM TXT TO DATABASE...")
 
-with open('han1.txt', encoding = "ISO-8859-1") as inf:
+with open('han1.txt', encoding = 'UTF-8') as inf:
     cont = inf.readlines()
     all_reg_ok = sep_reg(cont)
 
