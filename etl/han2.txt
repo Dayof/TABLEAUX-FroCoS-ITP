@@ -1,0 +1,315 @@
+First name = Hans  Middle name = de  Last name = Nivelle 
+Title = Mr.  Email = nivelle@ii.uni.wroc.pl  
+Affiliation = Wroclaw University 
+Address = Ul. Joliot Curie 15, 50-383 Wroclaw,  Poland 
+
+First name = Andrei  Middle name =   Last name = Popescu 
+Title = Dr.  Email = a.popescu@mdx.ac.uk  
+Affiliation = Middlesex 
+Address = The Burroughs -, NW4 4BT London,  UK 
+
+First name = Stephan  Middle name =   Last name = Böhme 
+Title = Mr.  Email = stephan.boehme@tu-dresden.de  
+Affiliation = TU Dresden 
+Address = Nöthnitzer Str. 46, 01062 Dresden,  Germany 
+
+First name = Stefan  Middle name =   Last name = Borgwardt 
+Title = Dr.  Email = Stefan.Borgwardt@tu-dresden.de  
+Affiliation = Technische Universität Dresden 
+Address = Nöthnitzer Str. 46, 01062 Dresden,  Germany 
+
+First name = Andrew  Middle name =   Last name = Marshall 
+Title = Dr.  Email = marshall@umw.edu  
+Affiliation = University of Mary Washington 
+Address = 1301 COLLEGE AVE Computer Science Dept., 22401 FREDERICKSBURG, Virginia United States 
+
+First name = Franz  Middle name =   Last name = Baader 
+Title = Prof.  Email = baader@tcs.inf.tu-dresden.de  
+Affiliation = TU Dresden 
+Address = Nöthnitzer Str.  46, 01062 Dresden,  Germany 
+
+First name = Cláudia  Middle name =   Last name = Nalon 
+Title = Dr.  Email = nalon@unb.br  
+Affiliation = University of Brasília 
+Address = Campus Darcy Ribeiro s/n, 70910-090 Brasília, DF Brazil 
+
+First name = David  Middle name =   Last name = Toman 
+Title = Dr.  Email = david@cs.uwaterloo.ca  
+Affiliation = University of Waterloo 
+Address = University Ave W 200, N2L3G1 Waterloo, Ontario Canada 
+
+First name = Roman  Middle name =   Last name = Kuznets 
+Title = Dr.  Email = roman@logic.at 
+Affiliation = TU Wien 
+Address = Favoritenstrasse 9-11/E1852, 1040 Vienna,  Austria 
+
+First name = James  Middle name =   Last name = Brotherston 
+Title = Dr.  Email = J.Brotherston@ucl.ac.uk  
+Affiliation = University College London 
+Address = Gower Street 0, WC1E 6BT London,  UK 
+
+First name = Roy  Middle name =   Last name = Dyckhoff 
+Title = Dr.  Email = rd@st-andrews.ac.uk  
+Affiliation = University of St Andrews 
+Address = North Haugh 0, KY16 9SX St Andrews,  UK 
+
+First name = Neil  Middle name = V.  Last name = Murray 
+Title = Prof.  Email = nvm@cs.albany.edu  
+Affiliation = University at Albany - SUNY 
+Address = Washington Ave. 1400, 12222 Albany, New York USA 
+
+First name = Tobias  Middle name =   Last name = Philipp 
+Title = Mr.  Email = tphilipp@gmail.com  
+Affiliation = TU Dresden 
+Address = Nöthnitzer Straße 46, 01062 Dresden, Saxony Germany 
+
+First name = Maximilian  Middle name =   Last name = Jaroschek 
+Title = Dr.  Email = mjarosch@mpi-inf.mpg.de  
+Affiliation = Max Planck Institute for Informatics 
+Address = Campus E1 4, 66111 Saarbrücken,  Germany 
+
+First name = Silvio  Middle name =   Last name = Ghilardi 
+Title = Prof.  Email = silvio.ghilardi@unimi.it  
+Affiliation = Department of mathematics, Università degli Studi 
+Address = via Cesare  Saldini 50, 20133 Milano,  Italy 
+
+First name = Christophe  Middle name =   Last name = Ringeissen 
+Title = Mr.  Email = Christophe.Ringeissen@loria.fr  
+Affiliation = Inria Nancy & Loria 
+Address = rue du Jardin Botanique 615, 54602 Villers-lès-Nancy,  France 
+
+First name = Taus  Middle name =   Last name = Brock Nannestad 
+Title = Mr.  Email = taus.brock-nannestad@inria.fr  
+Affiliation = INRIA 
+Address = Rue Honoré d'Estienne d'Orves 1, 91120 PALAISEAU,  FRANCE 
+
+First name = Sarah  Middle name =   Last name = Winkler 
+Title = Mrs.  Email = sarah.winkler@uibk.ac.at  
+Affiliation = Microsoft Research 
+Address = Station Road 21, CB12FB Cambridge,  UK 
+
+First name = Reiner  Middle name =   Last name = Hähnle 
+Title = Prof.  Email = haehnle@cs.tu-darmstadt.de  
+Affiliation = TU Darmstadt, Computer Science 
+Address = Hochschulstrasse 10, 64289 Darmstadt,  Germany 
+
+First name = Nicola  Middle name =   Last name = Olivetti 
+Title = Prof.  Email = nicola.olivetti@univ-amu.fr  
+Affiliation = Aix-Marseille University, LSIS 
+Address =  Domaine Universitaire de Saint Jérôme, Av. Escadrille Normandie-Niemen NN, 13397 Marseille,  France 
+
+First name = Andreas  Middle name =   Last name = Teucke 
+Title = none  Email = ateucke@mpi-inf.mpg.de  
+Affiliation = Max-Plank-Institut Informatik 
+Address = Campus  E1 4, 66123 Saarbrücken, Saarland Germany 
+
+First name = Jochen  Middle name =   Last name = Hoenicke 
+Title = Dr.  Email = hoenicke@informatik.uni-freiburg.de  
+Affiliation = University of Freiburg 
+Address = Georges-Koehler-Allee 52, 79110 Freiburg,  Germany 
+
+First name = Christoph  Middle name =   Last name = Wernhard 
+Title = Dr.  Email = info@christophwernhard.com  
+Affiliation = TU Dresden 
+Address = Nöthnitzer Straße 46, 01062 Dresden,  Germany 
+
+First name = Carsten  Middle name =   Last name = Lutz 
+Title = Prof.  Email = clu@uni-bremen.de  
+Affiliation = University of Bremen 
+Address = Postfach 330440, 28334 Bremen,  Germany 
+
+First name = Viorica  Middle name =   Last name = Sofronie-Stokkermans 
+Title = Prof.  Email = sofronie@uni-koblenz.de  
+Affiliation = University of Koblenz-Landau 
+Address = Universitätsstr. 1, D-56070 Koblenz,  Germany  
+
+First name = Guillaume  Middle name =   Last name = Bury 
+Title = Mr.  Email = guillaume.bury@gmail.com  
+Affiliation = INRIA 
+Address = Avenue d'Italie 23, 75013 Paris,  France 
+
+First name = Didier  Middle name =   Last name = Galmiche
+Title = Prof.  Email = Didier.Galmiche@loria.fr  
+Affiliation = LORIA/Université de Lorraine 
+Address = Campus scientifique BP 239, 54506  Vandoeuvre-les-Nancy cedex,  France 
+First name = Marco  Middle name =   Last name = Voigt 
+Title = Mr.  Email = mvoigt@mpi-inf.mpg.de 
+Affiliation = Max Planck Institute for Informatics 
+Address = Campus E1 4, 66123 Saarbrücken,  Germany 
+
+First name = Francesco  Middle name = Antonio  Last name = Genco 
+Title = Mr.  Email = genco@logic.at   
+Affiliation = TU Wien 
+Address = Favoritenstrasse 9-11, 1040 Wien,  Austria 
+
+First name = Gábor  Middle name =   Last name = Alagi 
+Title = Mr.  Email = galagi@mpi-inf.mpg.de  
+Affiliation = Max-Planck-Institut für Informatik 
+Address = Campus E1 4, 66123 Saarbrücken, Saarland Germany 
+
+First name = Uwe  Middle name =   Last name = Waldmann 
+Title = Dr.  Email = uwe@mpi-inf.mpg.de  
+Affiliation = Max Planck Institute for Informatics 
+Address = Campus E1.4, 66123 Saarbrücken,  Germany 
+
+First name = Christoph  Middle name =   Last name = Weidenbach 
+Title = Prof.  Email = weidenbach@mpi-inf.mpg.de  
+Affiliation = Max-Planck-Institut für Informatik 
+Address = Campus E1 4, 66123 Saarbrücken,  Germany 
+
+First name = Valentin  Middle name =   Last name = Cassano 
+Title = Dr.  Email = valentincassano@gmail.com 
+Affiliation = McMaster University 
+Address =  Main St West 1280, L8S 4K1 Hamilton, ON Canada 
+
+First name = Giselle  Middle name =   Last name = Reis 
+Title = none  Email = giselle.mnr@gmail.com  
+Affiliation = INRIA-Saclay 
+Address = Rue Honoré d'Estienne d'Orves 1, 91120 Palaiseau,  France 
+
+First name = Nik  Middle name =   Last name = Sultana 
+Title = none  Email = ns441@cam.ac.uk  
+Affiliation = Cambridge University 
+Address = JJ Thomson Av 15, CB3 0FD Cambridge,  UK 
+
+First name = Cesare  Middle name =   Last name = Tinelli 
+Title = Prof.  Email = cesare-tinelli@uiowa.edu  
+Affiliation = The University of Iowa 
+Address = MacLean Hall 14, 52242 Iowa City, Iowa USA 
+
+First name = Christoph  Middle name =   Last name = Benzmüller 
+Title = Dr.  Email = c.benzmueller@gmail.com  
+Affiliation = Freie Universität Berlin 
+Address = Arnimallee 7, 14195 Berlin,  Germany 
+
+First name = Silvio  Middle name =   Last name = Ranise 
+Title = Dr.  Email = ranise@fbk.eu  
+Affiliation = Bruno Kessler Foundation 
+Address = via Sommarive 18, 38123 Trento, Italy Italia 
+
+First name = Michael  Middle name =   Last name = Sioutis 
+Title = Mr.  Email = Sioutis@cril.fr  
+Affiliation = CNRS -CRIL-UMR8188 
+Address = rue Jean Souvraz 1, 62300 LENS,  France 
+
+First name = Mark   Middle name =   Last name = Reynolds 
+Title = Prof.  Email = mark.reynolds@uwa.edu.au  
+Affiliation = The University of Western Australia 
+Address = Stirling Highway 35 , 6009 CRAWLEY, WA Australia 
+
+First name = Stéphane  Middle name =   Last name = Graham-Lengrand
+Title = Mr.  Email = graham-lengrand@lix.polytechnique.fr  
+Affiliation = INRIA 
+Address = Bâtiment Alan Turing 1 Rue Honoré d'Estienne d'Orves, 91120 PALAISEAU,  FRANCE 
+
+First name = Kaustuv  Middle name =   Last name = Chaudhuri
+Title = Mr.  Email = kaustuv.chaudhuri@inria.fr  
+Affiliation = INRIA 
+Address = Bâtiment Alan Turing 1 Rue Honoré d'Estienne d'Orves, 91120 PALAISEAU,  FRANCE 
+
+First name = Björn  Middle name =   Last name = Lellmann 
+Title = Dr.  Email = lellmann@logic.at  
+Affiliation = Theory and Logic Group / TU Wien 
+Address = Favoritenstrasse 9/E1852, A-1040 Wien,  Austria 
+
+First name = Ullrich  Middle name =   Last name = Hustadt 
+Title = Dr.  Email = u.hustadt@liverpool.ac.uk  
+Affiliation = University of Liverpool 
+Address = Computer Science, Ashton St 0, L69 3BX Liverpool,  England 
+
+First name = Philipp  Middle name =   Last name = Ruemmer 
+Title = Dr.  Email = philipp.ruemmer@it.uu.se   
+Affiliation = Uppsala University 
+Address = Box 337, 75105 Uppsala,  Sweden 
+
+First name = Haniel  Middle name =   Last name = Barbosa 
+Title = Mr.  Email = hanielbbarbosa@gmail.com  
+Affiliation = LORIA/Université de Lorraine 
+Address = Campus scientifique BP 239, 54506 Vandoeuvre-les-Nancy cedex,  France 
+
+First name = Camillo  Middle name =   Last name = Fiorentini 
+Title = Dr.  Email = fiorentini@di.unimi.it  
+Affiliation = Universita' degli Studi di Milano 
+Address = Via Comelico 39, 20135 Milano,  Italia 
+
+First name = Serdar  Middle name =   Last name = Erbatur 
+Title = none  Email = serdar.erbatur@gmail.com  
+Affiliation = Ludwig-Maximilians-Universität München 
+Address = Oettingenstrasse  67, 80538 München,  Germany 
+
+First name = Amira  Middle name =   Last name = Zaki 
+Title = none  Email = amira.gamaleldin@gmail.com   
+Affiliation = Ulm University 
+Address = Marbachstrasse 4, 81369 Munich, Bavaria Germany 
+
+First name = Gilles  Middle name =   Last name = Dowek 
+Title = none  Email = gilles.dowek@inria.fr  
+Affiliation = Inria 
+Address = avenue d'Italie, CS 81321 23,, 75214  Paris Cedex 13,  France 
+
+First name = Ying  Middle name =   Last name = Jiang 
+Title = none  Email = jy@ios.ac.cn  
+Affiliation = ISCAS 
+Address = South Fourth Street, Zhong Guan Cun 4, 100190 Beijing,  China 
+
+First name = Oliver  Middle name =   Last name = Fernandez Gil 
+Title = none  Email = fernandez@informatik.uni-leipzig.de  
+Affiliation = University of Leipzig 
+Address = Augustusplatz 10, 04109 Leipzig,  Germany 
+
+First name = Tomer  Middle name =   Last name = Libal
+Title = Mr.  Email = tomer.libal@inria.fr  
+Affiliation = INRIA 
+Address = Batiment Alan Turing 1 rue Honoré d'Estienne d'orves, 91120 PALAISEAU,  FRANCE 
+
+First name = David  Middle name =   Last name = Delahaye 
+Title = none  Email = David.Delahaye@lirmm.fr  
+Affiliation = LIRMM, Université de Montpellier 
+Address = rue Ada 161, 34095 Montpellier Cedex 5,  France 
+
+First name = Till  Middle name =   Last name = Mossakowski 
+Title = Prof.  Email = till@iws.cs.uni-magdeburg.de  
+Affiliation = University of Magdeburg 
+Address = Universitätsplatz 2, 39106 Magdeburg,  Germany 
+
+First name = Jennifer  Middle name =   Last name = Kahn 
+Title = Mrs.  Email = j.kahnmarshall@gmail.com  
+Affiliation = University of Mary Washington 
+Address = College Ave 1301, 22401 Fredericksburg, Virginia USA 
+
+First name = Thomas  Middle name =   Last name = Sturm 
+Title = none  Email = sturm@mpi-inf.mpg.de  
+Affiliation = MPI Informatik 
+Address = Campus E1 4, 66123 Saarbrücken,  Germany 
+
+First name = Andrew  Middle name = Joseph  Last name = Reynolds 
+Title = Dr.  Email = andrew.j.reynolds@gmail.com  
+Affiliation = EPFL IC IIF LARA 
+Address = Station 14, 1015 Lausanne, Vaud Switzerland 
+
+First name = Jens  Middle name =   Last name = Otten 
+Title = Dr.  Email = jeotten@cs.uni-potsdam.de  
+Affiliation = University of Potsdam 
+Address = August-Bebel-Strasse 89, 14482 Potsdam-Babelsberg,  Germany 
+
+First name = Josef  Middle name =   Last name = Urban 
+Title = Dr.  Email = Josef.Urban@gmail.com  
+Affiliation = Czech Institute of Informatics, Robotics, and Cybernetics 
+Address = Zikova 1903/4, Praha 6 166 36, Czech Republic 
+
+First name = Andreas  Middle name =   Last name = Herzig 
+Title = Mr.  Email = herzig@irit.fr  
+Affiliation = University of Toulouse, IRIT 
+Address = Route de Narbonne 118, 31062 Toulouse Cedex 9,  France 
+
+First name = Michael  Middle name =   Last name = Faerber 
+Title = Mr.  Email = michael.faerber@uibk.ac.at  
+Affiliation = Universität Innsbruck 
+Address = Technikerstrasse 21a, 6020 Innsbruck, Tirol Austria 
+
+First name = Oliver  Middle name =   Last name = Ray 
+Title = Dr.  Email = csxor@bristol.ac.uk  
+Affiliation = University of Bristol 
+Address = Woodland Road MVB, BS8 1UB Bristol,  United Kingdom 
+
+

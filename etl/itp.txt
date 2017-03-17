@@ -1,0 +1,411 @@
+ADAMS Mark
+119 Comer Road
+WR2 5JD Worcester
+
+AFFELDT Reynald
+Central 1, 1-1-1 Umezono
+305-8560 Tsukuba, Ibaraki
+
+ANDRONICK June
+DATA61, level 3, K17 building
+Gate 14, Barker Street
+2033 Kensington
+
+AUSAF Fahad
+Department of Informatics
+King's College London, Strand Campus
+WC2R 2LS London
+
+BAUEREISS Thomas
+Trippstadter Str 122
+67663 Kaiserslautern
+
+BENGTSON Jesper
+Rued Langgaards Vej 7
+Copenhagen
+
+BERTOT Yves
+Inria Sophia Antipolis
+B.P. 93, 2004 route des lucioles
+06902 Sophia Antipolis
+
+BLANCHETTE Jasmin
+615, rue du Jardin Botanique
+54000 Nancy
+
+BLANQUI Frédéric
+LSV, 61 avenue du Président Wilson
+94235 Cachan
+
+BLOK Rieuwert
+Watson Building
+B152TT Birmingham
+
+BOURKE Timothy
+Centre de Recherche Inria de Paris
+2 rue Simone Iff, CS 42112 75
+75589 Paris
+
+BRANDENBURG Björn
+Paul-Ehrlich-Straße G 26
+D-67663 Kaiserslautern
+
+BREITNER Joachim
+IPD Snelting
+Am Fasanengarten 5
+76131 Karlsruhe
+
+BRODMANN Paul-David
+TU-Berlin Fachgebiet MTV, Sekr. TEL 7-2
+Ernst-Reuter-Platz 7
+10587 Berlin
+
+BUDAY Gergely
+Mátrai út 36.
+H-3200 Gyöngyös
+
+CERQUEIRA Felipe
+Paul-Ehrlich-Strasse G 26
+67663 Kaiserslautern
+
+CHAN Hing-Lun
+The Australian National University
+ACTON
+2601 Act
+
+CHUPRIKOV Pavel
+Universitetskaya nab., 7-9-11/5А
+199034 St. Petersburg
+
+COCK David
+Universitätstrasse 6
+8092 Zürich
+
+COHEN Cyril
+2004 route des Lucioles
+06902 Cedex Sophia Antipolis
+
+DE NIVELLE Hans
+Ul. Joliot-Curie 15
+50-383 Wroclaw
+
+DÉNÈS Maxime
+2004, route des Lucioles
+06902 Sophia Antipolis
+
+DOCZKAL Christian
+Campus E1 3
+66123 Saarbrücken
+
+EBERL Manuel
+I21, Technische Universität München
+Boltzmannstraße 3
+85748 Garching
+
+FAISSOLE Florian
+Bât. 650 Ada Lovelace, Université Paris Sud
+91400 Orsay
+
+FLEURY Mathias
+Max-Planck-Institut für Informatik, Mathias Fleury
+Campus E1 4
+66123 Saarbrücken
+
+FRANK Mario
+August-Bebel-Straße 89
+14482 Potsdam
+
+GHERI Lorenzo
+Middlesex University, The Burroughs, London NW4 4BT, UK
+NW4 4BT London
+
+GHOURABI Fadoua
+Ochanomizu University, Leading Graduate Promotion Center
+2-1-1 Otsuka, Bunkyo-ku
+112-8610 Tokyo
+
+GIORGETTI Alain
+16 route de Gray
+25000 Besançon
+
+GREGOIRE Thomas
+107a Uxbridge Road
+Flat 2b
+W12 8NL London
+
+HOFFMAN Corneliu
+School of Mathematics, University of Birmingham
+Edgbaston
+B15 2TT Birmingham
+
+HÖLZL Johannes
+TUM, Fakultät für Informatik, Lehrstuhl 21
+Boltzmannstr. 3
+85748 Garching b München
+
+HON. BHOTANI DEVI Khawas
+Singhadurbar
+Kathmandu
+
+HRITCU Catalin
+2 rue Simone Iff
+75012 Paris
+
+HUPEL Lars
+Boltzmannstraße 3
+85748 Garching
+
+HYM Samuel
+Bâtiment M3 - Cité Scientifique
+59655 Villeneuve d'Ascq
+
+IMMLER Fabian
+Boltzmannstr. 3
+Institut für Informatik, Lehrstuhl 21
+85748 Garching
+
+JEANDEL Emmanuel
+Campus Scientifique - BP 239
+54506 Nancy
+
+JOMAA Narjes
+50 Avenue du Halley, 59650 Villeneuve-d'Ascq IRCICA, Adresse
+59650 Villeneuve-d'Ascq
+
+JOOSTEN Sebastiaan
+Technikerstraße 21a
+Innsbruck
+
+JOURDAN Jacques-Henri
+Campus E1 5
+66123 Saarbrucken
+
+KAISER Jonas
+Programming Systems Lab, Campus E1 3
+66123 Saarbrücken
+
+KALISZYK Cezary
+Technikerstrasse 21a/2 Office 3M12
+Innsbruck
+
+KUNCAR Ondej
+Boltzmannstr. 3
+Garching
+
+KUNZE Fabian
+Uhlandstr. 28
+66121 Saarbrücken
+
+LAMMICH Peter
+Boltzmannstr 3
+(I21)
+85748 Garching
+
+LEROY Xavier
+2 rue Simone Iff
+75012 Paris
+
+LI Wenda
+Queens' College
+CB3 9ET Cambridge
+
+LOCHBIHLER Andreas
+Universitätstrasse 6
+8092 Zürich
+
+MAGAUD Nicolas
+INRIA - Nancy Grand-Est
+EPI CAMUS
+67400 Illkirch
+
+MANSOUR Mohammad
+7 London Circuit
+Canberra
+2601 Act
+
+MARTIN-DOREL Erik
+Université Paul Sabatier
+IRIT Université Paul Sabatier
+118 route de Narbonne
+31062 Toulouse
+
+MELQUIOND Guillaume
+Université Paris-Sud
+LRI, bâtiment 650
+91405 Orsay
+
+MERZ Stephan
+615 rue du Jardin Botanique
+54000 Nancy
+
+MONIN Jean-François
+Bâtiment IMAG, Université Grenoble Alpes
+700, avenue centrale
+38401 Saint Martin d’Hères
+
+NAGASHIMA Yutaka
+Level 3, Building K17 (via Gate 14) Barker Street
+University of New South Wales Kensington 2033 NSW Australia
+2033 Kensington
+
+NAGELE Julian
+Technikerstraße 21a
+6020 Innsbruck
+
+NAKANO Keisuke
+W9-615, 1-5-1 Chofugaoka
+182-8585 Chofu, Tokyo
+
+NARBOUX Julien
+ICube, Pôle API, Bd Sébastien Brant,
+BP 10413
+67412 Illkirch
+
+NIPKOW Tobias
+Fakultät für Informatik, Technische Universität München
+Boltzmannstr. 3
+85748 Garching
+
+NORRISH Michael
+Canberra City Lab.,
+Locked Bag 8001
+ACT 2601 Canberra
+
+PAULSON Lawrence
+15 JJ Thomson Avenue
+Cambridge
+CB3 0FD Cambridge
+
+POPESCU Andrei
+Flat 12 Aplin House
+54 Thirleby Road
+NW71BQ London
+
+POTTIER François
+2 rue Simone Iff
+CS 42112
+75589 Paris
+
+QUINTON Sophie
+655, ave de l'Europe Inovallée
+38330 Montbonnot Saint Martin
+
+RASHID Adnan
+SAVe Lab, NUST-SEECS, H-12
+Islamabad
+
+RIENER Martin
+615, rue du Jardin Botanique
+54602 Villers-lès-Nancy
+
+
+RIZKALLAH Christine
+Univ. of Pennsylvania, Department of Computer and Information
+Sciences, 3330 Walnut St., Levine Hall
+19104 Philadelphia
+
+RIZKALLAH Christine
+Univ. of Pennsylvania, Department of Computer and Information
+Sciences, 3330 Walnut St., Levine Hall
+19104 Philadelphia
+
+ROE Kenneth
+3400 North Charles Street
+21218 Baltimore, MD
+
+SCHLICHTKRULL Anders
+Richard Petersens Plads, Building 324
+2800 Kongens Lyngby
+
+SEIDLER Henning
+Sekr. TEL 7-2
+Ernst-Reuter-Platz 7
+10587 Berlin
+
+SIBUT-PINOTE Thomas
+12 boulevard Desgranges
+Bâtiment 14
+92330 Sceaux
+
+SMOLKA Gert
+Campus E1 3
+66117 Saarbrücken
+
+SOZEAU Matthieu
+8 place Aurélie Nemours
+75013 Paris
+
+STARK Kathrin
+Universität des Saarlandes Campus E1 3
+Saarbrücken
+
+STUCKE Insa
+Olshausenstrasse 40
+24098 Kiel
+
+TASSI Enrico
+2004, route des Lucioles - BP 93
+Sophia Antipolis
+
+THERY Laurent
+INRIA
+2004 Route des Lucioles
+06902 Sophia Antipolis
+
+THERY Laurent
+INRIA, 2004 route des Lucioles
+06902 Sophia Antipolis
+
+THIEMANN Rene
+Techniker Str. 21a
+Institut für Informatik
+6020 Innsbruck
+
+TIDO KANA Ernest
+BP 9875
+Yaounde
+
+TORRINI Paolo
+Naamsestraat 148
+Flat 401
+3000 Leuven
+
+TUERK Thomas
+Wilsdruffer Str. 27
+01067 Dresden
+
+URBAN Christian
+Department of Informatics,
+King's College London
+WC2R 2LS London
+
+VILLADSEN Jørgen
+Richard Petersens Plads, Building 324
+2800 Kongens Lyngby
+
+WENZEL Makarius
+Kohlergasse 5
+86152 Augsburg
+
+WIMMER Simon
+Boltzmannstr. 3
+I21 - Institut für Informatik
+85748 Garching
+
+WOLFF Burkhart
+1, Rue Noetzlin, Bat 650
+91405 Orsay
+
+WOLFF Burkhart
+Université Paris-Sud / LRI
+Université Paris-Sud / LRI
+91405 Orsay Cedex
+
+YAMADA Akihisa
+Technikerstr. 21a
+6020 Innsbruck
+
+ZHAN Bohua
+2-231B, 77 Massachusetts Ave.
+02139 Cambridge, MA
+

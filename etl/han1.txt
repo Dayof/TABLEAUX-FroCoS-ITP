@@ -1,0 +1,1334 @@
+Dr Stephan Schulz
+TU Munich
+Hirschstraße 35
+Baden Würtemberg
+76144 Karlsruhe
+Germany
+
+Prof Juergen Giesl
+RWTH Aachen
+Lehr- und Forschungsgebiet
+Informatik 2
+Ahornstr. 55
+Nordrhein-Westfalen
+52074 Aachen, Germany
+
+Mr Carsten Fuhs
+RWTH Aachen
+LuFG Informatik 2
+RWTH Aachen
+Nordrhein-Westfalen
+52056 Aachen
+Germany
+
+Prof John Slaney
+The Australian National University
+RSISE Bldg 115
+ACT
+0200 Canberra
+Australia
+
+Dr Gert Smolka
+Saarland University
+Campus E1 3 Rm. 514
+Saarland
+66123 Saarbruecken
+Germany
+
+Dr Geoffrey Sutcliffe
+University of Miami
+Department of Computer Science
+P.O. Box 248154
+Florida
+33124 Coral Gables
+United States of America
+
+Prof Reiner Haehnle
+Chalmers University of Technology
+Department of Computer Science
+41296 Gothenburg
+Sweden
+
+Dr Gerwin Klein
+NICTA
+Locked Bag 6016
+Gerwin Klein
+NSW 1466 Sydney
+Australia
+
+Mr Oliver Friedmann
+Oettingenstrasse 67
+Bavaria
+80538 Munich
+Germany
+
+Mr Tobias Tebbi
+Saarland University
+Bismarckstr. 10
+Saarland
+66111 Saarbruecken
+Germany
+
+Prof Aart Middeldorp
+University of Innsbruck
+Institute of Computer Science
+Technikerstr. 21a
+Tirol
+6020 Innsbruck
+Austria
+
+Dr Birte Glimm
+Oxford University Computing Lab
+ComLab — Wolfson Building
+Parks Road
+OX1 3QD Oxford
+Great Britain (UK)
+
+Prof Martin Lange
+University of Kassel
+FB Eletrotechnik/Informatik
+Wilhelmshöher Allee 73
+Hessen
+34121 Kassel
+Germany
+
+Dr Peter Baumgartner
+NICTA
+7 London Circuit
+Tower A
+2601 Canberra ACT
+Australia
+
+Mr Hicham Bensaid
+INPT/LIG
+Avenue Allal Al Fassi
+Madinat Al Irfane
+10112 Rabat
+Morocco
+
+Mr Thomas Sewell
+NICTA
+76 Grosvenor Rd
+Lindfield
+2070 Sydney
+Australia
+
+Dr Chad Brown
+Saarland University
+Thueringerstr 9
+Saarland
+66121 Saarbruecken
+Germany
+
+Mr Ramana Kumar
+The Australian National University
+10 Wilmot Crescent
+2603 Canberra
+Australia
+
+Mr Jonathan Abourbih
+1f2 9 Warrender Park Terrace
+Midlothian
+EH9 1JA Edinburgh
+Great Britain (UK)
+
+Dr Nao Hirokawa
+Japan Advanced Institute of
+Science and Technology
+1-1 Asahidai
+Ishikawa
+923-1292 Nomi
+Japan
+
+Dr Daniel Le Berre
+Universit´e d’Artois
+Rue Jean Souvraz SP18
+CRIL
+62307 LENS
+France
+
+Prof Bernhard Beckert
+Karlsruhe Institute of Technology
+Am Fasanengarten 5
+76131 Karlsruhe
+Germany
+
+Miss Anna Roubickova
+Via T. Taramelli 3
+38100 Trento
+Italy
+
+Mr Vincent Aravantinos
+Laboratory of Informatics of Grenoble
+8 rue de Valois
+Ile de France
+75001 Paris
+France
+
+Mr Mark Kaminski
+Saarland University
+Campus E1 3
+Saarland
+66123 Saarbruecken
+Germany
+
+Prof Tobias Nipkow
+Knöbelstr 38
+80538 München
+Germany
+
+Mr Wasserrab Daniel
+IPD Prof. Snelting
+Adenauerring 20a
+76133 Karlsruhe
+Germany
+
+Prof Maria Paola Bonacina
+Universitá degli Studi di Verona
+Dipartimento di Informatica
+Strada Le Grazie 15
+37129 Verona
+Italy
+
+Dr Bruno Woltzenlogel Paleo
+INRIA Nancy
+12–14 Avenue du Reclus
+Etage 2 Porte P
+54500 Vandoeuvre-les-Nancy
+France
+
+Prof Valentin Goranko
+Technical University of Denmark
+Richard Petersens Plads Bld. 321
+DK-2800 Kgs. Lyngby
+Denmark
+
+Dr Joe Hurd
+Galois Inc.
+421 SW 6th Ave. Ste. 300
+97204 Portland OR
+United States of America
+
+Mr Daniel Weller
+Vienna University of Technology
+Favoritenstraße 9
+1040 Vienna
+Austria
+
+Mr Hubert Comon-Lundh
+INRIA &
+Ecole Normale Superieure de Cachan
+Laboratoire Specification et Verification
+61 Avenue du President Wilson
+94235 Cachan
+France
+
+Prof David Plaisted
+UNC Chapel Hill
+5616 Hideaway Drive
+27516 Chapel Hill
+United States of America
+
+Dr Christoph Benzmueller
+Articulate Software
+5313 Spilman Ave
+95819 Sacramento
+United States of America
+
+Prof Christoph Beierle
+FernUniversität in Hagen
+Fak. f. Mathematik und Informatik
+Germany
+58084 Hagen
+Germany
+
+Prof Alan Bundy
+School of Informatics
+Informatics Forum Crichton St
+Midlothian
+EH8 9AB Edinburgh
+Great Britain (UK)
+
+Dr Markus Aderhold
+TU Darmstadt
+Hochschulstraße 10
+FB Informatik FG MAIS
+Hessen
+64289 Darmstadt
+Germany
+
+Mr Zhiqiang Liu
+Clarkson University
+105 Swan Street
+13676 Potsdam NY
+United States of America
+
+Mr Andre Platzer
+5400 Elmer Street
+Apt. #5
+15232 Pittsburgh PA
+United States of America
+
+Ms Ruzica Piskac
+EPFL
+Station 14
+EPFL // IC // LARA
+Vaud
+1015 Lausanne
+Switzerland
+
+Dr David Stanovsky
+Charles University Prague
+Ke Karlovu 3
+12116 Praha
+Czech Republic
+
+Dr Swen Jacobs
+Ecole Polytechnique F´ed´erale
+de Lausanne
+Building BC Room 358 Station 14
+1015 Lausanne
+Switzerland
+
+Prof Peter Schmitt
+KIT
+Am Fasanengarten 5
+D-76131 Karlsruhe
+Germany
+
+Mr Jasmin Christian Blanchette
+TU Muenchen
+Franz-Joseph-Str. 7
+Bavaria
+80801 Munich
+Germany
+
+Dr Christopher Lynch
+Clarkson University
+61 Waverly Street
+13676 Potsdam NY
+United States of America
+
+Mr Christoph Sticksel
+The University of Manchester
+School of Computer Science
+Oxford Road
+Lancashire
+M13 9PL Manchester
+Great Britain (UK)
+
+Prof Marta Cialdea
+Universita di Roma Tre
+Dipartimento di Informatica e
+Automazione
+via Vasca Navale 79
+00146 Rome
+Italy
+
+Dr Christophe Ringeissen
+INRIA Nancy Grand Est
+615 rue du Jardin Botanique
+BP 101
+Lorraine
+54602 Villers-les-Nancy
+France
+
+Dr Damien Doligez
+INRIA
+Domaine de Voluceau
+78153 Rocquencourt
+France
+
+Mr David Baelde
+University of Minnesota
+200 Union St SE
+55455 Minneapolis MN
+United States of America
+
+Prof Silvio Ghilardi
+University of Trento
+Via Sommarive 14
+DISI
+38123 Povo di Trento
+Italy
+
+Prof Roberto Sebastiani
+University of Trento
+Via Sommarive 14
+TN
+38123 Povo di Trento
+Italy
+
+Dr Yevgeny Kazakov
+Oxford University Computing Lab
+Room 307 Wolfson Building
+Parks Road
+OX1 3QD Oxford
+Great Britain (UK)
+
+Dr Silvio Ranise
+FBK-Irst
+Via per Villamontagna 8
+38121 Trento
+Italy
+
+Dr Nikolaj Bjorner
+Microsoft Research
+13337 186th Ave NE
+98072 Woodinvile WA
+United States of America
+
+Prof Neil Murray
+ILS Institute
+University at Albany — SUNY
+Dept. of Computer Science LI-67A
+12222 Albany NY
+United States of America
+
+Dr Moa Johansson
+Universita degli studi di Verona
+Corticella San Paolo 1
+371 29 Verona
+Italy
+
+Prof Brigitte Pientka
+McGill University
+3480 University Street
+Quebec
+H3A 2A7 Montreal
+Canada
+
+Prof Aaron Stump
+The University of Iowa
+Dept. of Computer Science
+14 MacLean Hall
+52242-1419 Iowa City IA
+United States of America
+
+Mr Andrew Reynolds
+The University of Iowa
+14 MacLean Hall
+Dept. of Computer Science
+52242 Iowa City IA
+United States of America
+
+Dr Rajeev Gore
+The Australian National University
+ANU
+RSISE Building 115
+0200 Canberra
+Australia
+
+Ms Despoina Magka
+Wolfson Building Parks Road
+Oxford University Computing Lab
+OX1 3QD Oxford
+Great Britain (UK)
+
+Prof Predrag Janicic
+University of Belgrade
+Faculty of Mathematics
+Studentski Trg 16
+11000 Belgrade
+Serbia
+
+Mr Friedrich Neurauter
+Technikerstrasse 21a
+Tyrol
+6424 Innsbruck
+Austria
+
+Mr Claude Marche
+INRIA Saclay
+4 rue Jacques Monod
+Ile de France
+91893 Orsay
+France
+
+Mr Thomas Raths
+Am Schlangenfenn 49
+14478 Potsdam
+Germany
+
+Dr Tudor Jebelean
+Research Institute
+for Symbolic Computation
+Schloss Hagenberg
+Oberoesterreich
+A-4232 Hagenberg i.M.
+Austria
+
+Mr Bernhard Gramlich
+TU Vienna
+Favoritenstraße 9 – E185/2
+1040 Vienna
+Austria
+
+Mr Zachary Snow
+University on Minnesota
+1101 E River Pkwy
+55414 Minneapolis MN
+United States of America
+
+Ms Elena Sherman
+University of Nebraska — Lincoln
+256 Avery Hall
+68410 Lincoln NE
+United States of America
+
+Mr Brady Garvin
+University of Nebraska — Lincoln
+256 Avery Hall
+68588-0115 Lincoln NE
+United States of America
+
+Mr Marvin Schiller
+Schopenhauerstr. 8
+Saarland
+D-66111 Saarbruecken
+Germany
+
+Dr Piotr Rudnicki
+University of Alberta
+Dept. of Computing Science
+Alberta
+T6G 2E8 Edmonton
+Canada
+
+Prof Matthew Dwyer
+University of Nebraska — Lincoln
+256 Avery Hall
+68588-0115 Lincoln NE
+United States of America
+
+Mrs Valquiria Fenelon Pereira
+University of Sao Paulo (USP)
+Rua Joaquim de Moura 91015
+Sao Paulo
+09791259 Sao Bernardo do Campo
+Brazil
+
+Mr Krystof Hoder
+The University of Manchester
+13 Ingoldsby Avenue
+Greater Manchester
+M13 0DF Manchester
+Great Britain (UK)
+
+Prof Cesare Tinelli
+The University of Iowa
+14 Mac Lean Hall
+52242 Iowa City IA
+United States of America
+
+Dr Renate Schmidt
+The University of Manchester
+Oxford Road
+School of Computer Science
+M13 9PL Manchester
+Great Britain (UK)
+
+Miss Sarah Winkler
+University of Innsbruck
+Technikerstrasse 21a
+Tirol
+6020 Innsbruck
+Austria
+
+Mr Julian Backes
+Salzachweg 7
+66333 Voelklingen
+Germany
+
+Mr Vincent Cheval
+LSV
+68 Rue Camille Desmoulins
+App. C310d
+Val de Marne
+94230 Cachan
+France
+
+Mr Patrick Wischnewski
+Max-Planck Institute for Informatics
+Campus E1 4
+Saarland
+66123 Saarbrücken
+Germany
+
+Mr Filip Marić
+Faculty of Mathematics
+Studentski Trg 16
+11000 Belgrade
+Serbia
+
+Mr Stephan Merz
+INRIA Nancy
+615 rue du Jardin Botanique
+Lorraine
+54600 Villers-l`es-Nancy
+France
+
+Dr Emina Torlak
+IBM Research
+19 Skyline Drive
+1N-J22
+10532 Hawthorne NY
+United States of America
+
+Mr Ulrik Buchholtz
+Stanford University
+360 Cowper St Apt 15
+94301 Palo Alto CA
+United States of America
+
+Mr Yoshiharu Kojima
+Nagoya University
+Chikusa-ku Furo-cho
+Aichi
+Nagoya
+Japan
+
+Mr Florian Widmann
+210 Northbourne Ave
+2612 Braddon
+Australia
+
+Miss Sarah Grebing
+Steubenstr. 14
+Baden Wuerttemberg
+76185 Karlsruhe
+Germany
+
+Dr Ullrich Hustadt
+University of Liverpool
+Computer Science Ashton Building
+Merseyside
+L69 3BX Liverpool
+Great Britain (UK)
+
+Mr Naoki Nishida
+Nagoya University
+Graduate School of Information Sci.
+Furo-cho Chikusa-ku
+Aichi
+4648603 Nagoya
+Japan
+
+Dr Laura Kovacs
+TU Vienna
+E185.1 Argentinierstrasse 8/4
+TU Wien
+1040 Vienna
+Austria
+
+Mr Daniel Bruns
+Karlsruhe Institute of Technology
+Institut für Theoretische Informatik
+Am Fasanengarten 5
+Baden-Württemberg
+76131 Karlsruhe
+Germany
+
+Mr Stephan Scheele
+Universität Bamberg
+Feldkirchenstr. 21
+96045 Bamberg
+Germany
+
+Mr Albert Rubio
+Technical University of Catalonia
+Jordi Girona 1–3
+08034 Barcelona
+Spain
+
+Ms Madalina Erascu
+Research Institute
+for Symbolic Computation
+Johannes Kepler University
+OberOesterreich
+4040 Linz
+Austria
+
+Prof Munehiro Iwami
+Japan/Shimane University
+Interdisciplinary Faculty
+of Science and Engineering
+Shimane
+690-8504 1060 Nishikawatsu Matsue
+Japan
+
+Mr Tommi Junttila
+Aalto University
+Konemiehentie 2
+02150 Espoo
+Finland
+
+Dr Konstantin Korovin
+University of Manchester
+room 2.40
+School of Computer Science
+M13 9PL Manchester
+Great Britain (UK)
+
+Dr Laurent Vigneron
+Nancy University — LORIA
+B.P. 239
+54506 Vandoeuvre-les-Nancy
+France
+
+Dr Lucas Dixon
+University of Edinburgh
+10 Crichton Street
+Rm 2.02 Informatics Forum
+EH9 2AD Edinburgh
+Great Britain (UK)
+
+Ecole Polytechnique
+Laboratoire d’Informatique LIX
+Route de Saclay
+91128 Palaiseau Cedex
+France
+
+Ms Nestan Tsiskaridze
+University of Manchester
+School of Computer Science
+Oxford Road
+2.108 Kilburn Building
+M13 9PL Manchester
+Great Britain (UK)
+
+Mr Angelo Brillout
+ETH Zurich
+Clausiusstrasse 59
+RZ H 12
+8032 Zurich
+Switzerland
+
+Ms Amy Felty
+5 Oakland Ave.
+Ontario
+K1S 2T1 Ottawa
+Canada
+
+Mr Thorsten Bormer
+Steubenstr. 14
+Baden Wuerttemberg
+76185 Karlsruhe
+Germany
+
+Mr Anders Schack-Nielsen
+IT University of Copenhagen
+Birkedommervej 75 st.th.
+2400 København NV
+Denmark
+
+Prof Didier Galmiche
+LORIA — UHP Nancy 1
+BP 239 Campus Scientifique
+Meurthe et Moselle
+54506 Vandoeuvre-les-Nancy
+France
+
+Mr Taus Brock-Nannestad
+IT University of Copenhagen
+Resedavej 40
+DK-2820 Gentofte
+Denmark
+
+Prof Christoph Weidenbach
+Max Planck Institute for Informatics
+Campus E1 4
+66123 Saarbruecken
+Germany
+
+Mr Markus Latte
+University of Munich
+Theoretical Computer Science
+Frohschammerstr. 10
+Bavaria
+80807 Munich
+Germany
+
+Dr Georg Moser
+University of Innsbruck
+Institute of Computer Science
+A-6020 Innsbruck
+Austria
+
+Prof Frank Pfenning
+Carnegie Mellon University
+2316 Shady Ave
+15217 Pittsburgh PA
+United States of America
+
+Dr Alan Smaill
+University of Edinburgh
+10 Crichton St
+Informatics Forum
+Midlothian
+EH89AB Edinburgh
+Great Britain (UK)
+
+Mr Pascal Fontaine
+615 rue du Jardin Botanique Bat B
+Lorraine
+54602 Villers-l`es-Nancy
+France
+
+Dr Uwe Waldmann
+Max-Planck-Institut für Informatik
+Campus E1.4
+66123 Saarbrücken
+Germany
+
+Mr Jason Kirschenbaum
+The Ohio State University
+Department of Computer Science
+and Engineering
+395 Dreese Laboratories
+43210-1277 Columbus OH
+United States of America
+
+Mr Jens Otten
+University of Potsdam
+August-Bebel-Straße 89
+Brandenburg
+14482 Potsdam
+Germany
+
+Dr Lilia Georgieva
+Heriot-Watt University
+26 Forthview Road
+EH14 5QE Edinburgh
+Great Britain (UK)
+
+Mr Djihed Afifi
+University of Manchester
+Kilburn Building
+School of Computer Science
+Oxford Road
+M13 9PL Manchester
+Great Britain (UK)
+
+Mr Arnaud Fietzke
+Max-Planck-Institut für Informatik
+Campus E1 4
+Room 606
+Saarland
+66123 Saarbrücken
+Germany
+
+Mr Maxime Beauquier
+IT University of Copenhagen
+Teglholm Tvørvej 33
+2450 Copenhagen
+Denmark
+
+Dr Stephan Falke
+Karlsruhe Institute of Technology
+Am Fasanengarten 5
+Baden-Württemberg
+76131 Karlsruhe
+Germany
+
+Mr Fahd Amjad
+University of Paul Verlaine
+Chambre Numer 122
+14 Rue des Liniere
+57070 Metz
+France
+
+Mr Matthias Horbach
+Max Planck Institute for Informatics
+Campus E1 4
+Saarland
+66123 Saarbrücken
+Germany
+
+Mr Martti Meri
+Aalto University
+School of Science and Technology
+P.O.Box 15400
+FI00076 Aalto
+02150 Espoo
+Finland
+
+Martin Suda
+Technische Universität Wien
+Institut für Informationssysteme 184/4
+Favoritenstraße 9–11
+1040 Wien
+Austria
+
+Mr Daniel Köhlwein
+Nordstraße 114
+53111 Bonn
+Germany
+
+Ms Ann Lillieström
+Chalmers University of Technology
+Marielundsgatan 23
+431 67 Mölndal
+Sweden
+
+Mr Jesse Alama
+Center for Artificial Intelligence
+New University of Lisbon
+Travessa do Adro
+7 Cv. Esq.
+1800-004 Lisbon
+Portugal
+
+Dr Viorica Sofronie-Stokkermans
+Max-Planck-Institut für Informatik
+Campus E 1.4
+Saarland
+D-66123 Saarbrücken
+Germany
+
+Mr Joseph Hendrix
+Galois Inc.
+421 SW 6th Ave
+Suite 300
+97204 Portland OR
+United States of America
+
+Dr Naohi Eguchi
+Japan Advanced Institute
+of Science and Technology
+1–1 Asahidai
+Ishikawa
+923-1292 Nomi
+Japan
+
+Prof Ulrich Furbach
+Uni KoblenzGer
+Universitätsstr. 1
+56070 Koblenz
+Germany
+
+Mr Francis Gasse
+Max-Planck-Institute fur Informatik
+Campus E1 4
+Building E1 7 room 2.15
+Saarland
+66123 Saarbrucken
+Germany
+
+Dr Dirk Pattinson
+Imperial College London
+Department of Computing
+Imperial College London
+SW7 2RZ London
+Great Britain (UK)
+
+Mr Alexandre Viel
+68 av. Italie
+75013 Paris
+France
+
+Mr Michael Chan
+University of Edinburgh
+Rm2.05 Informatics Forum
+10 Crichton St
+Midlothian
+EH8 9AB Edinburgh
+Great Britain (UK)
+
+Alessandro Armando
+Dipertimento di Informatica,
+Sistemistica e Telematica
+Universiteta di Genova
+Viala Causa 13
+16145 Genova
+Italy
+
+Franz Baader
+Fakultaet Informatik
+Institut fuer Theoretische Informatik
+01062 Dresden
+Germany
+
+Alessandro Cimatti
+Instituto per la Ricerca
+Scientifica e Tecnologica
+Loc. Pante Povo
+38050 Trento
+Italy
+
+Stephanie Delaune
+LSV, CNRS, ENS de Cachan
+61 avenue de President Wilson
+94235 Cachan cedex
+France
+
+John Harrison
+Intel Corporation
+2501, NW 229th Avenue
+Hillsboro
+OR 97124 USA
+
+Deepak Kapur
+Department of Computer Science
+School of Engineering
+University of New Mexico
+Albuquerque
+NM 87131–0001
+USA
+
+Mr Carsten Ihlemann
+Mainzer Strasse 37
+Saarland
+66111 Saarbruecken
+Germany
+
+Bruno Dutertre
+SRI International
+333 Ravenswood Avenue
+Menlo Park
+CA 94025
+USA
+
+Viktor Kuncak
+EPFLIC LARA INR318
+Station 14
+CH–1015 Lausanne
+Switzerland
+
+Alexander Leitsch
+Institut fuer Computersprachen
+Favoritenstrasse 9 / E1852
+A–1040 Wien
+Austria
+
+Christian Fermueller
+Institut fuer Computersprachen
+Favoritenstrasse 9 / E1852
+A–1040 Wien
+Austria
+
+Agata Ciabattoni
+Institut fuer Computersprachen
+Favoritenstrasse 9 / E1852
+A–1040 Wien
+Austria
+
+Leonardo de Moura
+Microsoft Research
+One Microsoft Way
+Redmont
+WA 98052
+USA
+
+Tobias Nipkow
+Fakultaet fuer Informatik
+Boltzmannstrasse 3
+D–85748 Garching
+Germany
+
+Albert Oliveras i Llunell
+Technical University of Catalonia
+LSI Department, Building Omega
+Jordi Girona 1
+E–08034 Barcelona
+Spain
+
+Robert Nieuwenhuis
+Technical University of Catalonia
+LSI Department, Building Omega
+Jordi Girona 1
+E–08034 Barcelona
+Spain
+
+Lawrence Paulson
+Computer Laboratory
+William Gates Building
+15 JJ Thomson Avenue
+Cambridge CB3 OFD
+United Kingdom
+
+Michael Rusinowitch
+LORIA-INRIA-Lorraine
+615 Rue du Jardin Botanique, BP 101
+54602 Villers les Nancy Cedex
+France
+
+Carsten Schuermann
+IT University of Copenhagen
+Rued Langgaards Vej 7
+2300 Copenhagen S
+Denmark
+
+Andrei Voronkov
+University of Manchester
+School of Computer Science
+Oxford Road,
+Manchester M13 9PL
+United Kingdom
+
+Ian Pratt-Hartmann
+School of Computer Science
+University of Manchester
+Oxford Road,
+Manchester M13 9PL
+United Kingdom
+
+Frank Wolter
+University of Liverpool
+Department of Computer Science
+Ashton Street
+Liverpool L69 3BX
+United Kingdom
+
+Koen Claessen
+Department of Computer Science
+and Engineering
+SE 412 96
+Gothenburg
+Sweden
+
+Byron Cook
+Microsoft Research Cambridge
+7 J J Thomson Avenue
+Cambridge, CB3 0FB
+United Kingdom
+
+Xavier Leroy
+INRIA Rocquencourt
+Domaine de Voluceau
+Route Departementale 307
+Rocquencourt
+78153 Le Chesnay
+France
+
+Aarne Ranta
+Department of Computer Science
+and Engineering
+SE 412 96
+Gothenburg
+Sweden
+
+Marc Bezem
+Universitetet i Bergen
+Institutt for Informatikk
+Postboks 7800
+N–5020 BERGEN
+Norway
+
+Krzystof Apt
+Centrum voor Wiskunde
+en Informatica
+Science Park 123
+1098 XG Amsterdam
+the Netherlands
+
+Johan van Benthem
+University of Amsterdam
+P.O. Box 94242
+1090 GE Amsterdam
+the Netherlands
+
+Cees Witteveen
+TuDelft
+Mekelweg 4
+2628 CD Delft
+the Netherlands
+
+Damian Niwiński
+Faculty of Mathematics,
+Informatics and Mechanics
+Warsaw University
+Banacha 2
+02–097 Warszawa
+Poland
+
+Adam Naumowicz
+Institute of Informatics
+University of Białystok
+Ul. Sosnowa 64
+15–614 Białystok
+Poland
+
+Michał Moskal
+Microsoft Research
+One Microsoft Way
+WA 98052 Redmond
+USA
+
+Marek Zaionc
+Faculty of Mathematics
+and Computer Science
+Łojasiewicza 6
+30–384 Kraków
+Poland
+
+Linh Anh Nguyen
+Institute of Informatics
+Ul. Banacha 2
+02–097 Warszawa
+Poland
+
+Lidia Tendera
+Instytut Matematyki i Informatyki
+Ul. Oleska 48
+45–052 Opole
+Poland
+
+Aleksy Schubert
+Faculty of Mathematics,
+Informatics and Mechanics
+Warsaw University
+Banacha 2
+02–097 Warszawa
+Poland
+
+Mikołaj Bojańczyk
+Faculty of Mathematics,
+Informatics and Mechanics
+Warsaw University
+Banacha 2
+02–097 Warszawa
+Poland
+
+Jacek Chrząszcz
+Faculty of Mathematics,
+Informatics and Mechanics
+Warsaw University
+Banacha 2
+02–097 Warszawa
+Poland
+
+Paweł Urzyczyn
+Faculty of Mathematics,
+Informatics and Mechanics
+Warsaw University
+Banacha 2
+02–097 Warszawa
+Poland
+
+Daria Walukiewicz-Chrząszcz
+Faculty of Mathematics,
+Informatics and Mechanics
+Warsaw University
+Banacha 2
+02–097 Warszawa
+Poland
+
+Daniel J. Dougherty
+Department of Computer Science
+Worcester Polytechnic Institute
+100 Institute Rd
+01609 Worcester MA
+United States of America
+
+Wayne Snyder
+Boston University
+Computer Science Department
+111 Cummington Street
+Boston, MA 02215
+United States of America
+
+H´el`ene Kirchner
+Inria
+Domaine de Voluceau
+Rocquencourt – BP 105
+78153 Le Chesnay Cedex
+France
+
+Claude Kirchner
+Inria
+Domaine de Voluceau
+Rocquencourt – BP 105
+78153 Le Chesnay Cedex
+France
+
+Georg Gottlob
+Technische Universität Wien
+Institut für Informationssysteme 184/2
+Abteilung für Datenbanken
+und Artificial Intelligence
+Favoritenstraße 9
+A–1040 Wien, Austria
+
+Colin Stirling
+School of Informatics
+Informatics Forum
+10 Crichton Street
+EH8 9AB Edinburgh
+
+Gilles Dowek
+Laboratoire d’Informatique (LIX)
+Ecole polytechnique
+91128 Palaiseau Cedex
+France
+
+Sophie Tison
+Bˆatiment M3 — Cité Scientifique
+Universit´e des Sciences
+et Technologies de Lille
+59655 Villeneuve d’Ascq Cedex
+France
+
+Philippe de Groote
+Inria-Lorraine
+615, rue du Jardin Botanique
+54600 Villers-les-Nancy
+France
+
+Marcin Jurdziński
+Department of Computer Science
+University of Warwick
+CV4 7AL Coventry
+United Kingdom
+
+Lars Birkedal
+IT University of Copenhagen
+Rued Langgaards Vej 7
+DK–2300 København S
+Denmark
+
+Stephanie Weirich
+University of Pennsylvania, School of
+Engineering and Applied Science
+220 South 33rd Street
+107 Towne Building
+Philadelphia, PA
+United States of America
+
+Hans Leiß
+Ludwig-Maximilians-Universität
+Centrum für Informations- und
+Sprachverarbeitung
+Geschwister-Scholl-Platz 1
+80539 München
+Germany
+
+Manfred Schmidt-Schauß
+Institut für Informatik
+FB Informatik und Mathematik (12)
+Johann Wolfgang Goethe-Universität
+Postfach 11 19 32
+D–60054 Frankfurt am Main
+Germany
+
+Simona Ronchi Della Rocca
+Dipartimento di Informatica
+Università di Torino
+Corso Svizzera 185
+I–10149 Torino
+Italy
+
+Mariangiola Dezani-Ciancaglini
+Dipartimento di Informatica
+Università di Torino
+Corso Svizzera 185
+I–10149 Torino
+Italy
+
+Jordi Levy
+Departament de Llenguatges
+i Sistemes Informàtics
+Technical University of Catalonia
+Campus Nord, Omega, 211
+08028 Barcelona
+Spain
