@@ -27,7 +27,7 @@ table.center {
     width:100%;
     table-layout:fixed;
     text-wrap:normal;
-    margin-left:auto; 
+    margin-left:auto;
     margin-right:auto;
     padding:0px;
     margin:0px;
@@ -56,9 +56,7 @@ header{
 }
 
 div#logo{
-    width:950px;
-    height:170px;
-    float:left;
+    width:100%;
     color:#FFFFFF;
 }
 
@@ -158,7 +156,7 @@ footer img{
 }
 
 
-	
+
 /****************************************************/
 /* MISC */
 /****************************************************/
