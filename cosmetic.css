@@ -37,6 +37,22 @@ a{text-decoration:underline; color:#000000;}
       padding-left:8px;
       padding-right:8px;
   }
+
+  .navbar-default{
+    border-color:;
+  }
+}
+
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+.logo{
+  background-color:#48b9c0;
+  /*vertical-align: center;*/
 }
 
 .nopadding {
@@ -58,7 +74,6 @@ a{text-decoration:underline; color:#000000;}
   font: 15px Calibri;
   letter-spacing:2px;
   text-transform:uppercase;
-  color:#FFFFFF;
   padding: 0;
   margin: 0;
 }
