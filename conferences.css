@@ -56,7 +56,9 @@ header{
 }
 
 div#logo{
-    width:100%;
+    width:950px;
+    height:170px;
+    float:left;
     color:#FFFFFF;
 }
 
