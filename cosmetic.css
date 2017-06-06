@@ -133,6 +133,24 @@ header {
   text-align:justify;
 }
 
+.title{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: bold;
+}
+
+.topics li {
+  padding-left: 25px;
+}
+
+.topics{
+  padding: 20px;
+}
+
+.img-responsive{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
 /****************************************************/
 /* FOOTER */
