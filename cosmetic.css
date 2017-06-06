@@ -52,7 +52,6 @@ header {
 
 .logo{
   background-color:#48b9c0;
-  /*vertical-align: center;*/
 }
 
 .nopadding {
@@ -109,10 +108,31 @@ header {
   transition-delay: 0s;
 }
 
-
 /****************************************************/
 /* CONTAINER */
 /****************************************************/
+
+/* Medium/Big devices */
+@media (min-width: 768px) {
+    .body{
+      margin-top: 300px;
+      margin-bottom: 50px;
+      text-align:justify;
+    }
+}
+
+/* Small devices */
+@media (max-width: 768px) {
+    .body{
+      margin-top: 50px;
+      margin-bottom: 50px;
+    }
+}
+
+.body{
+  text-align:justify;
+}
+
 
 /****************************************************/
 /* FOOTER */
