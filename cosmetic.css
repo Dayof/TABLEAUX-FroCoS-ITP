@@ -116,7 +116,6 @@ header {
 @media (min-width: 768px) {
     .body{
       margin-top: 300px;
-      margin-bottom: 50px;
       text-align:justify;
     }
 }
@@ -125,7 +124,6 @@ header {
 @media (max-width: 768px) {
     .body{
       margin-top: 50px;
-      margin-bottom: 50px;
     }
 }
 
@@ -133,9 +131,13 @@ header {
   text-align:justify;
 }
 
-.title{
+h2.title{
   padding-top: 15px;
   padding-bottom: 15px;
+  font-weight: bold;
+}
+
+h3.title{
   font-weight: bold;
 }
 
@@ -163,6 +165,19 @@ header {
 #submissions li{
     list-style:upper-alpha; /* Remove list bullets */
 }
+
+.payment{
+  text-align: center;
+}
+
+.footnote{
+    font-size: 12px;
+    margin-bottom:47px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+
 
 /****************************************************/
 /* FOOTER */
