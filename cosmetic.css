@@ -1,0 +1,16 @@
+body{
+    position:relative;
+    top:0px;
+    left:0px;
+    margin-bottom:47px;
+    background:#e6e6e7;
+    margin:0px;
+    font: 15px/24px Calibri, Verdana, Helvetica, sans-serif;
+    color:#000000;
+    padding:0px;
+}
+
+div#logo{
+    width:100%;
+    color:#FFFFFF;
+}
