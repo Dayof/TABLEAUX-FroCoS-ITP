@@ -14,10 +14,25 @@ a{text-decoration:underline; color:#000000;}
 /****************************************************/
 
 /* Small devices */
-@media (max-width: 576px) {
+@media (max-width: 768px) {
     .container{
       padding: 0;
     }
+}
+
+@media (min-width: 768px){
+  .container-fluid{
+    padding: 20px;
+  }
+
+  .navbar-nav>li {
+      display: inline-grid;
+      float: none;
+      text-align: center;
+      border-left:1px solid white;
+      padding-left:8px;
+      padding-right:8px;
+  }
 }
 
 .nopadding {
@@ -28,17 +43,29 @@ a{text-decoration:underline; color:#000000;}
 .navbar-default{
   background-color: #48b9c0;
   text-align: center;
+  padding-bottom: 10px;
+  vertical-align: middle;
 }
 
-.nav{
-  text-transform:uppercase;
+.navbar-nav{
+  margin: auto;
+}
+
+.navbar-nav>li{
   font: 15px Calibri;
   letter-spacing:2px;
+  text-transform:uppercase;
+  color:#FFFFFF;
+  padding: 0;
+  margin: 0;
 }
 
 .navbar-nav>li>a{
-  line-height:2px;
-
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0;
 }
 
 .nav li a {
@@ -49,6 +76,7 @@ a{text-decoration:underline; color:#000000;}
 .nav li a:hover {
   color:#000000 !important;
 }
+
 
 /****************************************************/
 /* CONTAINER */
