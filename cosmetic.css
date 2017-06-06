@@ -159,6 +159,11 @@ header {
 .talk p{
   background-color: #d8d8da;
 }
+
+#submissions li{
+    list-style:upper-alpha; /* Remove list bullets */
+}
+
 /****************************************************/
 /* FOOTER */
 /****************************************************/

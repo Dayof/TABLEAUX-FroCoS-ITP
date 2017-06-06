@@ -181,21 +181,58 @@
 	<div class="content">
 	  <h2 class="title">Invited Speakers</h2>
 	  <lu>
-	    <li><a href="http://www.cs.famaf.unc.edu.ar/~careces/">Carlos Areces</a> (FaMAF - Universidad Nacional de Córdoba, Argentina) </li>
+	    <li><a href="http://www.cs.famaf.unc.edu.ar/~careces/">Carlos Areces</a> (FaMAF - Universidad Nacional de Córdoba, Argentina)
+        <div class="talk">
+    	    <p>Title: To be announce. </p>
 
-	    <li><a href="http://sites.ualberta.ca/~bimbo/">Katalin Bimbó</a> (University of Alberta, Canada) (joint with FroCoS and ITP) </li>
+    	    <p>Abstract: To be announce.</p>
+        </div>
+      </li>
 
-	    <li><a href=" http://people.mpi-inf.mpg.de/~jblanche/">Jasmin Blanchette</a> (Inria and LORIA, Nancy, France) (joint with FroCoS and ITP)
+	    <li><a href="http://www.intellektik.de/index/WolfgangBibel.htm">Wolfgang Bibel</a> (Technische Universität Darmstadt, Germany) (TABLEAUX anniversary session)
 
         <div class="talk">
-    	    <p>Title: Foundational (Co)datatypes and (Co)recursion for Isabelle/HOL <br>
-    	    Joint work with Julian Biendarra, Aymeric Bouzy, Martin Desharnais, Mathias Fleury, Johannes Hölzl, Ondřej Kunčar, Andreas Lochbihler, Fabian Meier, Lorenz Panny, Andrei Popescu, Christian Sternagel, René Thiemann, and Dmitriy Traytel</p>
+    	    <p>Title: A Vision for Automated Deduction Rooted in the Connection Method </p>
 
-    	    <p>Abstract: Systems such as Isabelle adhere to the tradition initiated in the 1970s by the LCF system: All inferences are derived by a small trusted kernel; types and functions are defined rather than axiomatized to guard against inconsistencies. In this talk, I will describe a line of work that started in 2011 towards enriching Isabelle/HOL's language with coalgebraic datatypes (which allow infinite values) and with a more expressive notion of algebraic datatypes. These new (co)datatypes are complemented by definitional principles for (co)recursive functions and reasoning principles for (co)induction. In contrast with Agda, Coq, Lean, and Matita, no additional axioms or logic extensions are necessary.</p>
+    	    <p>Abstract: The talk presents an informal overview of the Connection Method in Automated Deduction. In particular, it points out its unique advantage over competing methods which consists in its formula-orientedness. Among the consequences of this unique feature are three striking advantages, viz. uniformity (over many logics), performance (due to its extreme compactness and evidenced by the leanCoP family of provers), and a global view over the proof process (enabling a higher-level guidance of the proof search). These aspects are discussed on the basis of the extensive work accumulated in the literature about this proof method. Along this line of research we envisage a bright future for the field and point out promising directions for future research.</p>
         </div>
 	    </li>
 
-	    <li><a href="http://cl-informatik.uibk.ac.at/users/cek/">Cezary Kaliszyk</a> (Universität Innsbruck, Austria) (joint with FroCoS and ITP) </li>
+      <li><a href="http://sites.ualberta.ca/~bimbo/">Katalin Bimbó</a> (University of Alberta, Canada) (joint with FroCoS and ITP)
+        <div class="talk">
+          <p>Title: The perimeter of decidability (with sequent calculi on the inside) </p>
+
+          <p>Abstract: Sequent calculi are preeminently capable of controlling the shape of proofs in a logic. Sometimes this allows decidability to be proved. However, formulating certain intensional logics as sequent calculi creates challenges. I will start with sequent calculi for implicational ticket entailment, and highlight some of the key ideas behind a well-behaved sequent calculus, which was (partly) inspired by structurally free logics. The decidability of implicational ticket entailment was an open problem for about 50 years. I will outline a solution using sequent calculi (from Bimbo & Dunn 2012 and 2013).
+            </br></br>
+          The decidability proof of pure relevant implication (Kripke 1959) can be (and has been) utilized differently (than for implicational ticket entailment). I will focus on adding modalities, lattice connectives and structural rules (both in unrestricted and limited forms). Many of the resulting logics are not among the well-known normal modal logics. I will show that certain ways of adding modalities keep the logic decidable. Moreover, the Curry-Kripke method (possibly, with some additions) still can be used to prove their decidability.</p>
+        </div>
+      </li>
+
+      <li><a href="http://people.mpi-inf.mpg.de/~jblanche/">Jasmin Blanchette</a> (Vrije Universiteit Amsterdam, The Netherlands) (TABLEAUX/FroCoS/ITP)
+        <div class="talk">
+    	    <p>Title: Foundational (Co)datatypes and (Co)recursion for Higher-Order Logic </br>
+          Joint work with Julian Biendarra, Aymeric Bouzy, Martin Desharnais, Mathias Fleury, Johannes Hölzl, Ondřej Kunčar, Andreas Lochbihler, Fabian Meier, Lorenz Panny, Andrei Popescu, Christian Sternagel, René Thiemann, and Dmitriy Traytel</p>
+
+    	    <p>Abstract: We describe a line of work that started in 2011 towards enriching Isabelle/HOL's language with coinductive datatypes, which allow infinite values, and with a more expressive notion of inductive datatype than previously supported by any system based on higher-order logic. These (co)datatypes are complemented by definitional principles for (co)recursive functions and reasoning principles for (co)induction. In contrast with other systems offering codatatypes, no additional axioms or logic extensions are necessary with our approach.</p>
+        </div>
+      </li>
+
+      <li><a href="https://www.se.tu-darmstadt.de/se/group-members/reiner-haehnle/">Reiner Hähnle</a> (Technische Universität Darmstadt, Germany) (TABLEAUX anniversary session)
+        <div class="talk">
+    	    <p>Title: Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages </p>
+
+    	    <p>Abstract: A formal, mathematically precise semantics for a programming language is the essential prerequisite for the design of logics and calculi that permit automated reasoning about programs. The most popular approach to programming language semantics — small step operational semantics (SOS) — is not modular in the sense that it does not separate conceptual layers in the target language. SOS is also hard to relate formally to program logics and calculi. Low-level semantic formalisms, such as automata, Petri nets, or π-calculus are inadequate for rich programming languages. We propose a new formal semantics for a concurrent, active objects language. It is designed with the explicit aim of being compatible with a sequent calculus for a program logic and has a strong model theoretic flavor. Our semantics separates sequential and object-local from concurrent computation: the former yields abstract traces which in a second stage are combined into global system behavior.</p>
+        </div>
+      </li>
+
+
+	    <li><a href="http://cl-informatik.uibk.ac.at/users/cek/">Cezary Kaliszyk</a> (Universität Innsbruck, Austria) (joint with FroCoS and ITP)
+        <div class="talk">
+    	    <p>Title: Automating Formalization by Statistical and Semantic Parsing of Mathematics </p>
+
+    	    <p>Abstract: We discuss the progress in our project which aims to automate formalization by combining natural language processing with deep semantic understanding of mathematical expressions. We introduce the overall motivation and ideas behind this project, and then propose a context-based parsing approach that combines efficient statistical learning of deep parse trees with their semantic pruning by type checking and large-theory automated theorem proving. We show that our learning method allows efficient use of large amount of contextual information, which in turn significantly boosts the precision of the statistical parsing and also makes it more efficient. This leads to a large improvement of our first results in parsing theorems from the Flyspeck corpus.</p>
+        </div>
+      </li>
 	  </lu>
 	</div>
 
