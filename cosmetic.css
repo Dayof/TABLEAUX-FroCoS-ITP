@@ -1,16 +1,55 @@
 body{
-    position:relative;
-    top:0px;
-    left:0px;
-    margin-bottom:47px;
-    background:#e6e6e7;
-    margin:0px;
-    font: 15px/24px Calibri, Verdana, Helvetica, sans-serif;
-    color:#000000;
-    padding:0px;
+  background:#e6e6e7;
+  font: 15px/24px Calibri, Verdana, Helvetica, sans-serif;
+  color:#000000;
 }
 
-div#logo{
-    width:100%;
-    color:#FFFFFF;
+h1{font-size: 30px;}
+h2{font-size: 15px;text-transform:uppercase;letter-spacing:2px;}
+h3{font-size: 15px;}
+a{text-decoration:underline; color:#000000;}
+
+/****************************************************/
+/* HEADER */
+/****************************************************/
+
+.navbar-default{
+  background-color: #48b9c0;
+}
+
+.nav{
+  text-transform:uppercase;
+  font: 15px Calibri;
+  letter-spacing:2px;
+  text-align: center;
+}
+
+.nav li a {
+  text-decoration:none;
+  color:#FFFFFF !important;
+}
+
+.nav li a:hover {
+  color:#000000 !important;
+}
+
+/****************************************************/
+/* CONTAINER */
+/****************************************************/
+
+/****************************************************/
+/* FOOTER */
+/****************************************************/
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 47px;
+  background-color: white;
+  width: 100%;
+}
+
+footer img{
+    align:center;
 }

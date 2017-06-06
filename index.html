@@ -16,17 +16,21 @@
   </head>
 
   <body lang="en-GB" dir="ltr">
+    <div class="container">
+      <div class="col-md-1"></div>
+
+    <div class="col-md-10">
     <header>
       <div class="hidden-xs">
-      	<img src="./images/topo-tableaux.jpg" alt="TABLEAUX 2017" title="TABLEAUX 2017"  usemap="#tableaux_map"/>
+      	<img src="./images/topo-tableaux.jpg" alt="TABLEAUX 2017" title="TABLEAUX 2017" class="img-responsive" usemap="#tableaux_map"/>
       	<map name="tableaux_map">
       	  <area shape="rect" coords="747,125,827,142" alt="FroCoS 2017" title="FroCoS 2017" href="http://frocos2017.cic.unb.br" />
       	  <area shape="rect" coords="847,124,907,140" alt="ITP 2017" title="ITP 2017" href="http://itp2017.cic.unb.br" />
       	</map>
       </div>
 
-      <nav class="navbar navbar-default" style="background:#48b9c0;">
-        <div class="container">
+      <nav class="navbar navbar-default navbar-static-top">
+        <div class="container-fluid">
           <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
               <span class="icon-bar"></span>
@@ -37,7 +41,7 @@
           </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav">
+          <ul class="nav navbar-nav navbar-center">
             <li style="border-left:none"><a href="#home">Home</a></li>
             <li><a href="#topics">Topics</a></li>
             <li><a href="#anniversary">Anniversary<span style="color:#48b9c0;">_</span>Session</a></li>
@@ -60,7 +64,6 @@
 
   </header>
 
-    <container>
       <div id="home">
 	      <div class="content">
 
@@ -492,7 +495,9 @@
 	</div>
       </div>
 
-    </container>
+    </div>
+  <div class="col-md-4"></div>
+</div> <!-- container -->
 
     <!-- The JavaScript -->
     <script type="text/javascript">
@@ -530,6 +535,7 @@
 	  <area shape="rect" coords="680,5,720,40" alt="Departament of Informatics and Applied Mathematics (DIMAp/UFRN)" title="Departament of Informatics and Applied Mathematics (DIMAp/UFRN)" href="http://dimap.ufrn.br/en/" />
 	  <area shape="rect" coords="730,5,820,40" alt="Departamento de Matemática (DMAT/UFRN)" title="Departamento de Matemática (DMAT/UFRN)" href="http://mat.ufrn.br/en/" />
 	</map>
+
       </div>
     </footer>
   </body>
