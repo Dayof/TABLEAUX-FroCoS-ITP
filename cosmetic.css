@@ -13,19 +13,27 @@ a{text-decoration:underline; color:#000000;}
 /* HEADER */
 /****************************************************/
 
+/* Small devices */
+@media (max-width: 576px) {
+    .container{
+      padding: 0;
+    }
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
 .navbar-default{
   background-color: #48b9c0;
+  text-align: center;
 }
 
 .nav{
   text-transform:uppercase;
   font: 15px Calibri;
   letter-spacing:2px;
-  text-align: center;
-}
-
-.navbar-nav{
-  text-align: justify;
 }
 
 .navbar-nav>li>a{
